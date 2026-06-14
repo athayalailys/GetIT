@@ -1,0 +1,153 @@
+<resources>
+    <string name="app_name">Get IT</string>
+    <string name="login_title">Masuk</string>
+    <string name="login_subtitle">ke akun Anda</string>
+    <string name="register_title">Daftar</string>
+    <string name="register_subtitle">untuk melanjutkan</string>
+    <string name="username_email_label">Username atau Email</string>
+    <string name="username_email_placeholder">Masukkan Username/Email</string>
+    <string name="password_label">Kata Sandi</string>
+    <string name="confirm_password_label">Konfirmasi Kata Sandi</string>
+    <string name="full_name_label">Nama Lengkap</string>
+    <string name="email_ulm_label">Email Resmi ULM (@mhs.ulm.ac.id)</string>
+    <string name="btn_login">Masuk</string>
+    <string name="btn_register">Daftar</string>
+    <string name="or_text">atau</string>
+    <string name="google_login">Masuk dengan Google</string>
+    <string name="google_register">Daftar dengan Google</string>
+    <string name="no_account_text">Belum punya akun? Daftar sekarang</string>
+    <string name="no_account_warning">Akun belum terdaftar!</string>
+    <string name="wrong_password">Username atau Password salah!</string>
+    <string name="login_success">Berhasil Masuk!</string>
+    <string name="register_success">Berhasil Daftar!</string>
+
+    <string name="home_title">Get IT.</string>
+    <string name="search_placeholder">Cari barang yang kamu inginkan</string>
+    <string name="best_offer">Penawaran Terbaik</string>
+    <string name="categories">Kategori</string>
+    <string name="weather_safe">Aman COD 🟢</string>
+    <string name="weather_unsafe">Kurang Aman COD ⚠️</string>
+
+    <string name="cat_all">Semua</string>
+    <string name="cat_laptop">Laptop dan Komputer</string>
+    <string name="cat_pc">Komponen untuk PC</string>
+    <string name="cat_acc">Aksesoris Komputer</string>
+    <string name="cat_gadget">Gadget dan Mobile</string>
+
+    <string name="add_product_title">Tambah Produk</string>
+    <string name="edit_product_title">Edit Produk</string>
+    <string name="manage_product_title">Kelola Produk</string>
+    <string name="product_name">Nama Produk</string>
+    <string name="product_price">Harga Produk</string>
+    <string name="product_category_label">Kategori Produk</string>
+    <string name="product_description">Deskripsi</string>
+    <string name="btn_cancel">Batal</string>
+    <string name="btn_add">Tambah</string>
+    <string name="btn_update">Perbarui</string>
+    <string name="btn_delete">Hapus</string>
+    <string name="upload_image_label">Gambar Produk (Maks. 3)</string>
+    <string name="product_url_label">URL Gambar Produk (Maks. 3)</string>
+    <string name="product_url_placeholder">Tempel URL Gambar</string>
+    <string name="form_incomplete_msg">Mohon lengkapi data dan gambar!</string>
+
+    <string name="profile_title">Profil</string>
+    <string name="profile_seller_title">Profil Penjual</string>
+    <string name="profile_products">Produk</string>
+    <string name="profile_rating">Rating</string>
+    <string name="profile_sales">Terjual</string>
+    <string name="profile_list_title">Daftar Produk</string>
+    <string name="profile_no_items">Belum ada produk.</string>
+    <string name="profile_sold_out">Sudah Terjual</string>
+
+    <string name="settings_title">Pengaturan</string>
+    <string name="settings_profile_section">Profil Akun</string>
+    <string name="settings_label_fullname">Nama Lengkap</string>
+    <string name="settings_label_location">Lokasi</string>
+    <string name="settings_btn_save_profile">Simpan Profil</string>
+    <string name="settings_payment_section">Manajemen Pembayaran</string>
+    <string name="settings_label_wa">No. WhatsApp</string>
+    <string name="settings_label_bank">Bank</string>
+    <string name="settings_label_acc">Rekening</string>
+    <string name="settings_label_ewallet">E-Wallet</string>
+    <string name="settings_label_ewallet_acc">No. E-Wallet</string>
+    <string name="settings_btn_save_payment">Simpan Pembayaran</string>
+    <string name="settings_verification_section">Verifikasi Identitas Mahasiswa</string>
+    <string name="settings_verified_success">✓ Terverifikasi sebagai Mahasiswa ULM</string>
+    <string name="settings_label_email_ulm">Email Resmi ULM (@mhs.ulm.ac.id)</string>
+    <string name="settings_btn_verify">Verifikasi via Link Email</string>
+    <string name="settings_appearance_section">Tampilan &amp; Bahasa</string>
+    <string name="settings_dark_mode_label">Tema Gelap</string>
+    <string name="settings_language_label">Bahasa</string>
+    <string name="settings_btn_logout">Logout</string>
+    <string name="settings_btn_delete_acc">Hapus Akun</string>
+    <string name="settings_delete_title">Hapus Akun Permanen?</string>
+    <string name="settings_delete_ongoing">Anda memiliki transaksi yang sedang berlangsung. Akun Anda akan dinonaktifkan sementara hingga transaksi selesai.</string>
+    <string name="settings_delete_confirm">Tindakan ini tidak dapat dibatalkan. Semua data Anda akan dihapus secara permanen.</string>
+    <string name="settings_btn_confirm_delete">Hapus</string>
+    <string name="settings_btn_cancel_delete">Batal</string>
+
+    <string name="detail_title">Detail</string>
+    <string name="detail_total_price">Total Harga</string>
+    <string name="detail_btn_buy">Beli</string>
+    <string name="detail_payment_method">Metode Pembayaran</string>
+    <string name="detail_description_label">Deskripsi Produk</string>
+    <string name="payment_cod">Cash on Delivery</string>
+    <string name="payment_bank">Transfer Bank</string>
+    <string name="payment_ewallet">Transfer E-Wallet</string>
+    <string name="payment_dialog_bank_msg">Silakan transfer ke rekening bank berikut\n%1$s - %2$s\nJangan lupa kirimkan bukti transfer ke penjual!</string>
+    <string name="payment_dialog_ewallet_msg">Silakan transfer ke e-wallet berikut\n%1$s - %2$s\nJangan lupa kirimkan bukti transfer ke penjual!</string>
+    <string name="btn_done">Selesai</string>
+    <string name="chat_seller">Chat Penjual</string>
+
+    <string name="wishlist_title">Keranjang &amp; Pesanan</string>
+    <string name="wishlist_empty">Keranjang belanja kosong.</string>
+    <string name="wishlist_status_done">Selesai</string>
+    <string name="wishlist_status_handed_over">Barang telah diserahkan penjual</string>
+    <string name="wishlist_status_waiting">Menunggu penyerahan barang</string>
+    <string name="wishlist_status_sold">Barang telah dibeli</string>
+    <string name="wishlist_btn_receive">Diterima</string>
+
+    <string name="manage_title">Kelola Produk Anda</string>
+    <string name="manage_subtitle">Pantau pesanan dan stok gawai Anda.</string>
+    <string name="manage_empty">Daftar jualan kosong.</string>
+    <string name="status_available">Tersedia</string>
+    <string name="status_sold">Terjual</string>
+    <string name="status_handed_over">Diserahkan</string>
+    <string name="status_finished">Selesai</string>
+    <string name="btn_mark_sold">Terjual</string>
+    <string name="btn_mark_handed_over">Diserahkan</string>
+    <string name="toast_product_deleted">Produk dihapus permanen.</string>
+
+    <string name="history_title">Riwayat Notifikasi</string>
+    <string name="history_empty">Belum ada notifikasi.</string>
+
+    <!-- Email Verification -->
+    <string name="verif_dialog_title">Verifikasi Email</string>
+    <string name="verif_link_sent">Link verifikasi telah dikirim ke:</string>
+    <string name="verif_instruction">Silakan periksa kotak masuk email Anda dan klik link tersebut. Jendela ini akan tertutup otomatis setelah akun Anda terverifikasi.</string>
+    <string name="verif_timeout_err">Waktu verifikasi habis. Silakan masuk dan kirim ulang email verifikasi.</string>
+    <string name="verif_cancel">Batal</string>
+    <string name="username_taken">Username sudah digunakan, silakan pilih yang lain.</string>
+    <string name="email_not_verified_err">Email Anda belum terverifikasi. Silakan periksa kotak masuk Anda.</string>
+    <string name="err_session_expired">Sesi berakhir, silakan masuk kembali.</string>
+    <string name="err_user_not_found">Pengguna tidak ditemukan.</string>
+    <string name="verif_success_toast">Email berhasil diverifikasi!</string>
+
+    <!-- Weather Conditions -->
+    <string name="weather_clear">Cerah</string>
+    <string name="weather_partly_cloudy">Cerah Berawan</string>
+    <string name="weather_foggy">Berkabut</string>
+    <string name="weather_drizzle">Gerimis</string>
+    <string name="weather_rain">Hujan</string>
+    <string name="weather_heavy_rain">Hujan Deras</string>
+    <string name="weather_thunderstorm">Badai Petir</string>
+    <string name="weather_unknown">Tidak Diketahui</string>
+    <string name="weather_load_err">Gagal Memuat</string>
+    <string name="toast_login_success">Berhasil Masuk!</string>
+    <string name="toast_register_success">Berhasil Daftar! Silakan verifikasi email.</string>
+    <string name="toast_cod_success">Berhasil! Hubungi penjual untuk COD.</string>
+    <string name="toast_payment_sent">Bukti transfer telah dikirim ke penjual!</string>
+    <string name="toast_wa_error">WhatsApp tidak terpasang</string>
+    <string name="toast_add_success">Produk Berhasil Ditambahkan!</string>
+    <string name="toast_update_success">Berhasil diperbarui!</string>
+</resources>

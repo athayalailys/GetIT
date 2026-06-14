@@ -1,0 +1,151 @@
+<resources>
+    <string name="app_name">Get IT</string>
+    <string name="login_title">Login</string>
+    <string name="login_subtitle">to your account</string>
+    <string name="register_title">Register</string>
+    <string name="register_subtitle">to continue</string>
+    <string name="username_email_label">Username or Email</string>
+    <string name="username_email_placeholder">Enter Username/Email</string>
+    <string name="password_label">Password</string>
+    <string name="confirm_password_label">Confirm Password</string>
+    <string name="full_name_label">Full Name</string>
+    <string name="email_ulm_label">Official ULM Email (@mhs.ulm.ac.id)</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_register">Register</string>
+    <string name="or_text">or</string>
+    <string name="google_login">Sign in with Google</string>
+    <string name="google_register">Sign up with Google</string>
+    <string name="no_account_text">Don\'t have an account? Register now</string>
+    <string name="no_account_warning">Account not registered!</string>
+    <string name="wrong_password">Wrong Username or Password!</string>
+    <string name="login_success">Login Successful!</string>
+    <string name="register_success">Registration Successful!</string>
+
+    <string name="home_title">Get IT.</string>
+    <string name="search_placeholder">Search for items you want</string>
+    <string name="best_offer">Best Offers</string>
+    <string name="categories">Categories</string>
+    <string name="weather_safe">Safe for COD 🟢</string>
+    <string name="weather_unsafe">Unsafe for COD ⚠️</string>
+
+    <string name="cat_all">All</string>
+    <string name="cat_laptop">Laptop and Computer</string>
+    <string name="cat_pc">PC Components</string>
+    <string name="cat_acc">Computer Accessories</string>
+    <string name="cat_gadget">Gadget and Mobile</string>
+
+    <string name="add_product_title">Add Product</string>
+    <string name="edit_product_title">Edit Product</string>
+    <string name="manage_product_title">Manage Products</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_price">Product Price</string>
+    <string name="product_category_label">Product Category</string>
+    <string name="product_description">Description</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_add">Add</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_delete">Delete</string>
+    <string name="upload_image_label">Product Images (Max. 3)</string>
+    <string name="product_url_label">Product Image URL (Max. 3)</string>
+    <string name="product_url_placeholder">Paste Image URL</string>
+    <string name="form_incomplete_msg">Please complete the data and images!</string>
+
+    <string name="profile_title">Profile</string>
+    <string name="profile_seller_title">Seller Profile</string>
+    <string name="profile_products">Products</string>
+    <string name="profile_rating">Rating</string>
+    <string name="profile_sales">Sold</string>
+    <string name="profile_list_title">Product List</string>
+    <string name="profile_no_items">No products yet.</string>
+    <string name="profile_sold_out">Sold Out</string>
+
+    <string name="settings_title">Settings</string>
+    <string name="settings_profile_section">Account Profile</string>
+    <string name="settings_label_fullname">Full Name</string>
+    <string name="settings_label_location">Location</string>
+    <string name="settings_btn_save_profile">Save Profile</string>
+    <string name="settings_payment_section">Payment Management</string>
+    <string name="settings_label_wa">WhatsApp No.</string>
+    <string name="settings_label_bank">Bank</string>
+    <string name="settings_label_acc">Account No.</string>
+    <string name="settings_label_ewallet">E-Wallet</string>
+    <string name="settings_label_ewallet_acc">E-Wallet No.</string>
+    <string name="settings_btn_save_payment">Save Payment</string>
+    <string name="settings_verification_section">Student Identity Verification</string>
+    <string name="settings_verified_success">✓ Verified as ULM Student</string>
+    <string name="settings_label_email_ulm">Official ULM Email (@mhs.ulm.ac.id)</string>
+    <string name="settings_btn_verify">Verify via Link Email</string>
+    <string name="settings_appearance_section">Appearance &amp; Language</string>
+    <string name="settings_dark_mode_label">Dark Theme</string>
+    <string name="settings_language_label">Language</string>
+    <string name="settings_btn_logout">Logout</string>
+    <string name="settings_btn_delete_acc">Delete Account</string>
+    <string name="settings_delete_title">Delete Account Permanently?</string>
+    <string name="settings_delete_ongoing">You have ongoing transactions. Your account will be temporarily deactivated until transactions are completed.</string>
+    <string name="settings_delete_confirm">This action cannot be undone. All your data will be permanently deleted.</string>
+    <string name="settings_btn_confirm_delete">Delete</string>
+    <string name="settings_btn_cancel_delete">Cancel</string>
+
+    <string name="detail_title">Detail</string>
+    <string name="detail_total_price">Total Price</string>
+    <string name="detail_btn_buy">Buy</string>
+    <string name="detail_payment_method">Payment Method</string>
+    <string name="detail_description_label">Product Description</string>
+    <string name="payment_cod">Cash on Delivery</string>
+    <string name="payment_bank">Bank Transfer</string>
+    <string name="payment_ewallet">E-Wallet Transfer</string>
+    <string name="payment_dialog_bank_msg">Please transfer to the following account:\n%1$s - %2$s\nDon\'t forget to send the transfer proof to the seller!</string>
+    <string name="payment_dialog_ewallet_msg">Please transfer to the following e-wallet:\n%1$s - %2$s\nDon\'t forget to send the transfer proof to the seller!</string>
+    <string name="btn_done">Done</string>
+    <string name="chat_seller">Chat Seller</string>
+
+    <string name="wishlist_title">Cart &amp; Orders</string>
+    <string name="wishlist_empty">Shopping cart is empty.</string>
+    <string name="wishlist_status_done">Finished</string>
+    <string name="wishlist_status_handed_over">Item handed over by seller</string>
+    <string name="wishlist_status_waiting">Waiting for item handover</string>
+    <string name="wishlist_status_sold">Item has been purchased</string>
+    <string name="wishlist_btn_receive">Received</string>
+
+    <string name="manage_title">Manage Your Products</string>
+    <string name="manage_subtitle">Monitor your orders and gadget stock.</string>
+    <string name="manage_empty">Listing is empty.</string>
+    <string name="status_available">Available</string>
+    <string name="status_sold">Sold</string>
+    <string name="status_handed_over">Handed Over</string>
+    <string name="status_finished">Finished</string>
+    <string name="btn_mark_sold">Mark Sold</string>
+    <string name="btn_mark_handed_over">Mark Handed Over</string>
+    <string name="toast_product_deleted">Product permanently deleted.</string>
+
+    <string name="history_title">Notification History</string>
+    <string name="history_empty">No notifications yet.</string>
+
+    <!-- Email Verification -->
+    <string name="verif_dialog_title">Email Verification</string>
+    <string name="verif_link_sent">Verification link has been sent to:</string>
+    <string name="verif_instruction">Please check your email inbox and click the link. This window will close automatically once your account is verified.</string>
+    <string name="verif_timeout_err">Verification timeout. Please log in and resend the verification email.</string>
+    <string name="verif_cancel">Cancel</string>
+    <string name="username_taken">Username is already taken, please choose another.</string>
+    <string name="email_not_verified_err">Your email has not been verified. Please check your inbox.</string>
+    <string name="err_session_expired">Session expired, please log in again.</string>
+    <string name="err_user_not_found">User not found.</string>
+    <string name="verif_success_toast">Email verified successfully!</string>
+
+    <!-- Weather Conditions -->
+    <string name="weather_clear">Clear</string>
+    <string name="weather_partly_cloudy">Partly Cloudy</string>
+    <string name="weather_foggy">Foggy</string>
+    <string name="weather_drizzle">Drizzle</string>
+    <string name="weather_rain">Rain</string>
+    <string name="weather_heavy_rain">Heavy Rain</string>
+    <string name="weather_thunderstorm">Thunderstorm</string>
+    <string name="weather_unknown">Unknown</string>
+    <string name="weather_load_err">Failed to Load</string>
+    <string name="toast_login_success">Login Successful!</string>
+    <string name="toast_register_success">Register Successful! Please verify your email.</string>
+    <string name="toast_cod_success">Success! Contact seller for COD.</string>
+    <string name="toast_payment_sent">Transfer proof has been sent to seller!</string>
+    <string name="toast_wa_error">WhatsApp is not installed</string>
+</resources>
